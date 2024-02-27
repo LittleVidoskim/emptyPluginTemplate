@@ -1,0 +1,4 @@
+name: emptyPluginTemplate
+version: '${project.version}'
+main: empty.javaplugin.EmptyPluginTemplate
+api-version: '1.16'
